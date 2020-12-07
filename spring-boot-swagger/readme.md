@@ -98,5 +98,5 @@ public class UserController {
 }
 ````
 
-最后，访问http://localhost:8089/swagger-ui.html 即可看到你的杰作
+最后，访问http://localhost:8080/swagger-ui.html 即可看到你的杰作
 
