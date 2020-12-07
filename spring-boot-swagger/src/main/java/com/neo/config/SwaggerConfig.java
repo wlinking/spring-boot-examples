@@ -28,12 +28,12 @@ public class SwaggerConfig {
 
     private ApiInfo apiInfo() {
         return new ApiInfoBuilder()
-                .title("客户管理")
-                .description("客户管理中心 API 1.0 操作文档")
+                .title("接口swagger-doc")
+                .description("xxx系统 API 1.0 操作文档")
                 //服务条款网址
-                .termsOfServiceUrl("http://www.ityouknow.com/")
+                .termsOfServiceUrl("https://github.com/linking123")
                 .version("1.0")
-                .contact(new Contact("纯洁的微笑", "http://www.ityouknow.com/", "ityouknow@126.com"))
+                .contact(new Contact("Linking", "https://github.com/linking123", "w.linkings@gmail.com"))
                 .build();
     }
 }
